@@ -1,0 +1,12 @@
+/*****************************
+ All rights reserved.
+ AllFont.ru (c) 2011-2015
+ *****************************/
+@font-face {
+    font-family: 'Roboto Condensed Light';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Roboto Condensed Light'), local('RobotoCondensedLight-Regular'),
+        url(http://allfont.ru/cache/fonts/roboto-condensed-light_6520098da192209327de6a21f3cc37cf.woff) format('woff'),
+        url(http://allfont.ru/cache/fonts/roboto-condensed-light_6520098da192209327de6a21f3cc37cf.ttf) format('truetype');
+}
